@@ -1,6 +1,8 @@
 // mixins
 
-// @mixin flex{
-//     display: flex;
-//     flex-direction: column;
-// }
+@mixin flex-col{
+    display: flex;
+    flex-direction: column;
+}
+
+

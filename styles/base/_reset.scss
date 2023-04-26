@@ -15,7 +15,6 @@ html, body{
 }
 
 
-
 // Reset margins 
 body,
 h1,
@@ -45,12 +44,12 @@ p {
 // set up the body 
 body {
     line-height: 1.5;
-    min-height: 100vh;
-    // display: grid;
-    // grid-template-rows: min-content 1fr;
+    // min-height: 100vh;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
 }
+
+
 
 
 // Images

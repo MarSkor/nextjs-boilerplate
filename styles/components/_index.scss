@@ -1,3 +1,5 @@
 // @forward (essentially importing) scss partials from 'components'
 
-// example @forward 'button'
+@forward "layout";
+@forward "navigationbar";
+@forward "footer";
