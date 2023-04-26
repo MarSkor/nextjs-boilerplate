@@ -1,6 +1,6 @@
 # Next.js boiler template with sass/scss
 
-![Logo](/favicon/logo.png)
+![Logo](public/assets/logo/logo.png)
 
 ## Running locally in development mode
 
