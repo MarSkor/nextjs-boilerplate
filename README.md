@@ -1,4 +1,4 @@
-# Next.js boiler template with sass/scss
+# Basic Next.js boilerplate with sass/scss
 
 ![Logo](public/assets/logo/logo.png)
 
